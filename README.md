@@ -43,8 +43,10 @@ Showcase fashion outfits, blog posts, and clothing images
 
 Serve as a stylish, visually appealing  website
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Add interactive elements with JavaScript (e.g., blog comments, slideshow)
 
 Add a login function
+
+Improve page design and CSS
